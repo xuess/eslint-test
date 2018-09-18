@@ -1,3 +1,16 @@
+
+## 项目运行
+
+```
+# 安装依赖
+npm i
+
+# 执行修复并语法检查
+./node_modules/.bin/eslint --fix test.js
+
+```
+
+
 ## 什么是eslint
 
 >可组装的JavaScript和JSX检查工具
