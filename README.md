@@ -117,3 +117,8 @@ $ eslint yourfile.js
 ## 配置项
 
 [配置项](./configuring.md)
+
+
+## vscode配置
+
+[vscode 配置与各个配置文件说明](./vscode_configinfo.md)
